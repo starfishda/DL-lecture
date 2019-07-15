@@ -8,3 +8,8 @@
 - Training
 - 학습을 위해서는 데이터가 미리 필요하다
 - <b>Supervised</b>와 <b>Unsupervised</b>로 나눌 수 있다
+
+#### Supervised Learning
+1) Regression
+2) Binary classification
+3) Multi-label classification
