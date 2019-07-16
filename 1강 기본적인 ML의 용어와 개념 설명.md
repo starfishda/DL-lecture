@@ -15,3 +15,5 @@
 3) <b>Multi-label classification</b> - ex) A,B,C,D,F 등급 예측
 
 ####  Unsupervised Learning
+1) <b>Grouping</b>
+2) <b>Clustering</b>
