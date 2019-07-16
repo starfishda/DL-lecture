@@ -6,10 +6,12 @@
 
 #### 학습이란?
 - Training
-- 학습을 위해서는 데이터가 미리 필요하다
+- <i>Training Data set</i> :학습을 위해서는 데이터가 미리 필요하다
 - <b>Supervised</b>와 <b>Unsupervised</b>로 나눌 수 있다
 
 #### Supervised Learning
-1) Regression
-2) Binary classification
-3) Multi-label classification
+1) Regression - ex) 시험점수 예측
+2) Binary classification - ex) Pass/Fail 예측
+3) Multi-label classification - ex) A,B,C,D,F 등급 예측
+
+####  Unsupervised Learning
