@@ -1,2 +1,1 @@
-# DL lecture
- 모두의 딥러닝
+## 2강 Linear Regression의 Hypothesis와 
