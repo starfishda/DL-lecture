@@ -7,9 +7,9 @@
 training 시켜서 나온 regression 모델을 통해 예측을 할 수 있다.<br>
 linear 학습을 한다는 것은 데이터에 알맞은 선을 찾는다는 것<br>
 
-Hypothesis = 가설<br>
-H(x) = Wx + b<br>
-H(x) = Wx + b -> 가장 데이터와 일치하는 H(x)를 찾는다.<br>
+>Hypothesis = 가설<br>
+>H(x) = Wx + b<br>
+>H(x) = Wx + b -> 가장 데이터와 일치하는 H(x)를 찾는다.<br>
 
 점과 직선사이의 거리가 멀면 좋지 않은 것 점과 직선이 가까울 수록 좋은 것이다.<br>
 이것을 판단하는 것이 cost이다.<br>
