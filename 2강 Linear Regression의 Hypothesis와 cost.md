@@ -4,8 +4,8 @@
 
 학습을 시키는 과정을 <b>training</b><br>
 학습 시키는데 필요한 데이터를 <b>training data</b> 라고 한다.<br>
-  <p>training 시켜서 나온 regression 모델을 통해 예측을 할 수 있다.<br>
-  linear 학습을 한다는 것은 데이터에 알맞은 선을 찾는다는 것</p><br>
+training 시켜서 나온 regression 모델을 통해 예측을 할 수 있다.<br>
+linear 학습을 한다는 것은 데이터에 알맞은 선을 찾는다는 것<br>
 
 Hypothesis = 가설<br>
 H(x) = Wx + b<br>
